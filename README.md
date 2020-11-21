@@ -9,7 +9,7 @@ The report should contain the following:
 ## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 - Random Oversampler
 
-(!https://github.com/tarajarell/Credit_Risk_Analysis/blob/main/Resources/ClusterC_classification_report.jpg)[!https://github.com/tarajarell/Credit_Risk_Analysis/blob/main/Resources/ClusterC_classification_report.jpg]
+[!https://github.com/tarajarell/Credit_Risk_Analysis/blob/main/Resources/ClusterC_classification_report.jpg](!https://github.com/tarajarell/Credit_Risk_Analysis/blob/main/Resources/ClusterC_classification_report.jpg)
 
 - SMOTE Oversampling
 - Cluster Centroids Undersampling
